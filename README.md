@@ -52,10 +52,3 @@ you can just run:
 python3 evaluate.py --model_dir=./experiments/experiment_ModelNet40 --restore_file=./experiments/experiment_ModelNet40/test_model_best.pth
 ```
 
-## Acknowledgments
-
-In this project we use (parts of) the official implementations of the following works:
-
-* [RPMNet](https://github.com/yewzijian/RPMNet) (ModelNet40 preprocessing and evaluation)
-
-We thank the authors for open sourcing their methods.
