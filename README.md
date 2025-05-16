@@ -27,7 +27,7 @@ Tested in the following environments:
 * tqdm==4.62.3
 * transforms3d==0.3.1
 * scikit-learn>=0.21.3
-* torch==1.13.1
+* torch==2.1.2
 
 ## Data
 
